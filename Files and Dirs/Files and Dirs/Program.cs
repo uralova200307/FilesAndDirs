@@ -6,7 +6,7 @@
         {
             #region Task 4
 
-            string path = @"C:\Users\Miraziz_Khidoyatov\Documents\Pdp\Module-03\Classes\Lesson06\Lesson06";
+            string path = @"C:\Users\ACER\Desktop\C#\.NET\Lesson";
             string[] directories = { "bin", "obj" };
 
             foreach (string directory in directories)
