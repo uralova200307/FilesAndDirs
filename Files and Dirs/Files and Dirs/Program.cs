@@ -6,7 +6,7 @@
         {
             #region Task 3
 
-            string projectPath = @"C:\Users\Miraziz_Khidoyatov\Documents\Pdp";
+            string projectPath = @"C:\Users\ACER\Desktop\C#\.NET\Lesson";
             string[] exeFiles = Directory.GetFiles(projectPath, "*.exe", SearchOption.AllDirectories);
             foreach (string file in exeFiles)
             {
